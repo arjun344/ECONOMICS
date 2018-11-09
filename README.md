@@ -9,7 +9,7 @@ Minor Project
 
 ---------------
 Team : 
-  *Bharat Sharma 
+  *Bharat Sharma\n
   *Bhavya Bordia 
   *Arjun 
   *Adesh Sangoi 
