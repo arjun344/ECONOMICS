@@ -1,3 +1,4 @@
 # ECONOMICS
 Case Study on Haryana
-Effect of Rainfall and Temprature on Economy of state.
+
+**Effect of Rainfall and Temprature on Economy of state.
