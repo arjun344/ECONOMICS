@@ -9,9 +9,9 @@ Minor Project
 
 ---------------
 Team : 
-  Bharat Sharma 
-  Bhavya Bordia 
-  Arjun 
-  Adesh Sangoi 
-  Anmol Jindal 
-  Shubham Raj
+  *Bharat Sharma 
+  *Bhavya Bordia 
+  *Arjun 
+  *Adesh Sangoi 
+  *Anmol Jindal 
+  *Shubham Raj
